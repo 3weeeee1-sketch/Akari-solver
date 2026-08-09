@@ -23,3 +23,5 @@ P.S. Akari 谜题的规则如下：
 - (3) 黑格里的数字代表上下左右四格里有多少个灯泡。
 - (4) 不容许任一灯泡照到其他灯泡。
 可假定给出的谜题都有唯一解。
+
+![image](https://github.com/3weeeee1-sketch/Akari-solver/blob/main/picture/Example.png)
