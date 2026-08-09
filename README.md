@@ -25,3 +25,5 @@ P.S. Akari 谜题的规则如下：
 可假定给出的谜题都有唯一解。
 
 ![image](https://github.com/3weeeee1-sketch/Akari-solver/blob/main/picture/Example.png)
+
+在main文件夹中提供了解题器的完整代码(个人水平有限，大部分代码有冗余(´⊙ω⊙`)),代码中有注释解释每个函数的作用，同时提供一个pdf,简略展示解题流程以及部分重要的函数和数据结构
